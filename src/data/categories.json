@@ -1,0 +1,479 @@
+{
+    "categories": [
+        {
+            "id": "###greet###",
+            "name": {
+                "en": "Greeting",
+                "mg": "Fiarahabana"
+            },
+            "phrasesIds": [
+                "greet#1",
+                "greet#2",
+                "greet#3",
+                "greet#4",
+                "greet#5",
+                "greet#6",
+                "greet#7",
+                "greet#8",
+                "greet#9",
+                "greet#10",
+                "greet#11",
+                "greet#12",
+                "greet#13",
+                "greet#14",
+                "greet#15",
+                "greet#16",
+                "greet#17",
+                "greet#18",
+                "greet#19",
+                "greet#20",
+                "greet#21",
+                "greet#22"
+            ]
+        },
+        {
+            "id": "###farewell###",
+            "name": {
+                "en": "Farewell Expressions",
+                "mg": "Fanaovam-beloma"
+            },
+            "phrasesIds": [
+                "farewelll#0",
+                "farewelll#1",
+                "farewelll#2",
+                "farewelll#3",
+                "farewelll#4",
+                "farewelll#5",
+                "farewelll#6",
+                "farewelll#7",
+                "farewelll#8",
+                "farewelll#9"
+            ]
+        },
+        {
+            "id": "###holiday-wishes###",
+            "name": {
+                "en": "Holidays and Wishes",
+                "mg": "Firarian-tsoa"
+            },
+            "phrasesIds": [
+                "holiday-wishes#0",
+                "holiday-wishes#1",
+                "holiday-wishes#2",
+                "holiday-wishes#3",
+                "holiday-wishes#4",
+                "holiday-wishes#5",
+                "holiday-wishes#6",
+                "holiday-wishes#7",
+                "holiday-wishes#8",
+                "holiday-wishes#9",
+                "holiday-wishes#10",
+                "holiday-wishes#11"
+            ]
+        }
+        ,
+        {
+            "id": "###introductions###",
+            "name": {
+                "en": "How to Introduce Yourself",
+                "mg": "Iza aho?"
+            },
+            "phrasesIds": [
+                "introductions#1",
+                "introductions#2",
+                "introductions#3",
+                "introductions#4",
+                "introductions#5",
+                "introductions#6",
+                "introductions#7",
+                "introductions#8",
+                "introductions#9",
+                "introductions#10",
+                "introductions#11",
+                "introductions#12",
+                "introductions#13",
+                "introductions#14",
+                "introductions#15",
+                "introductions#16",
+                "introductions#17",
+                "introductions#18",
+                "introductions#19",
+                "introductions#20",
+                "introductions#21",
+                "introductions#22",
+                "introductions#23",
+                "introductions#24",
+                "introductions#25",
+                "introductions#26",
+                "introductions#27",
+                "introductions#28",
+                "introductions#29"
+            ]
+        }
+        ,
+        {
+            "id": "###romance###",
+            "name": {
+                "en": "Romance and Love Phrases",
+                "mg": "Resa-pitiavana"
+            },
+            "phrasesIds": [
+                "romance#0",  "romance#1",
+                "romance#2",  "romance#3",
+                "romance#4",  "romance#5",
+                "romance#6",  "romance#7",
+                "romance#8",  "romance#9",
+                "romance#10", "romance#11",
+                "romance#12", "romance#13",
+                "romance#14", "romance#15",
+                "romance#16", "romance#17",
+                "romance#18", "romance#19",
+                "romance#20", "romance#21"
+              ]
+        }
+        ,
+        {
+            "id": "###misunderstanding###",
+            "name": {
+                "en": "Solving a Misunderstanding",
+                "mg": "Mamaha olana noho ny resaka tsy mifandray"
+            },
+            "phrasesIds":[
+                "solving-misunderstanding#0",
+                "solving-misunderstanding#1",
+                "solving-misunderstanding#2",
+                "solving-misunderstanding#3",
+                "solving-misunderstanding#4",
+                "solving-misunderstanding#5",
+                "solving-misunderstanding#6",
+                "solving-misunderstanding#7",
+                "solving-misunderstanding#8",
+                "solving-misunderstanding#9",
+                "solving-misunderstanding#10",
+                "solving-misunderstanding#11",
+                "solving-misunderstanding#12",
+                "solving-misunderstanding#13",
+                "solving-misunderstanding#14",
+                "solving-misunderstanding#15",
+                "solving-misunderstanding#16",
+                "solving-misunderstanding#17",
+                "solving-misunderstanding#18",
+                "solving-misunderstanding#19",
+                "solving-misunderstanding#20",
+                "solving-misunderstanding#21",
+                "solving-misunderstanding#22"
+              ]
+        }
+        ,
+        {
+            "id": "###directions###",
+            "name": {
+                "en": "Asking for Directions",
+                "mg": "Fangatahana fanampiana sy fanoroana toerana"
+            },
+            "phrasesIds": [                                    
+                "directions#0",  "directions#1",   
+                "directions#2",  "directions#3",   
+                "directions#4",  "directions#5",   
+                "directions#6",  "directions#7",   
+                "directions#8",  "directions#9",   
+                "directions#10", "directions#11",  
+                "directions#12", "directions#13",  
+                "directions#14", "directions#15",  
+                "directions#16", "directions#17",  
+                "directions#18", "directions#19",  
+                "directions#20", "directions#21",  
+                "directions#22", "directions#23",  
+                "directions#24", "directions#25",  
+                "directions#26", "directions#27",  
+                "directions#28"                    
+              ]                                    
+        }
+        ,
+        {
+            "id": "###emergency###",
+            "name": {
+                "en": "Emergency Survival Phrases",
+                "mg": "Inona no tenenina rehefa misy loza na zavatra ratsy mitranga?"
+            },
+            "phrasesIds":    [                                  
+                "emergency#0",  "emergency#1",   
+                "emergency#2",  "emergency#3",   
+                "emergency#4",  "emergency#5",   
+                "emergency#6",  "emergency#7",   
+                "emergency#8",  "emergency#9",   
+                "emergency#10", "emergency#11",  
+                "emergency#12", "emergency#13",  
+                "emergency#14", "emergency#15",  
+                "emergency#16", "emergency#17",  
+                "emergency#18", "emergency#19",  
+                "emergency#20"                   
+              ]                                                    
+        }
+        ,
+        {
+            "id": "###hotel###",
+            "name": {
+                "en": "Hotel Restaurant Travel Phrases",
+                "mg": "Hotely, trano fisakafoanana sy ireo dia"
+            },
+            "phrasesIds":  [                                           
+                "hotel-travel#0",  "hotel-travel#1",      
+                "hotel-travel#2",  "hotel-travel#3",      
+                "hotel-travel#4",  "hotel-travel#5",      
+                "hotel-travel#6",  "hotel-travel#7",      
+                "hotel-travel#8",  "hotel-travel#9",      
+                "hotel-travel#10", "hotel-travel#11",     
+                "hotel-travel#12", "hotel-travel#13",     
+                "hotel-travel#14", "hotel-travel#15",     
+                "hotel-travel#16", "hotel-travel#17",     
+                "hotel-travel#18", "hotel-travel#19",     
+                "hotel-travel#20", "hotel-travel#21",     
+                "hotel-travel#22", "hotel-travel#23",     
+                "hotel-travel#24", "hotel-travel#25",     
+                "hotel-travel#26", "hotel-travel#27"      
+              ]                                                    
+        }
+        ,
+        {
+            "id": "###daily-exp###",
+            "name": {
+                "en": "Daily Expressions",
+                "mg": "Fiteny samihafa"
+            },
+            "phrasesIds":  [
+                "daily-exp#0",  "daily-exp#1",
+                "daily-exp#2",  "daily-exp#3",
+                "daily-exp#4",  "daily-exp#5",
+                "daily-exp#6",  "daily-exp#7",
+                "daily-exp#8",  "daily-exp#9",
+                "daily-exp#10", "daily-exp#11",
+                "daily-exp#12", "daily-exp#13",
+                "daily-exp#14", "daily-exp#15",
+                "daily-exp#16"
+              ]      
+        }
+        ,
+        {
+            "id": "###cuss-words###",
+            "name": {
+                "en": "Cuss Words (polite)",
+                "mg": "??Cuss Words (polite)??"
+            },
+            "phrasesIds":  [
+                "cuss-words-polite#0",
+                "cuss-words-polite#1",
+                "cuss-words-polite#2",
+                "cuss-words-polite#3",
+                "cuss-words-polite#4",
+                "cuss-words-polite#5",
+                "cuss-words-polite#6",
+                "cuss-words-polite#7",
+                "cuss-words-polite#8"
+              ]
+        }
+        ,
+        {
+            "id": "###writing-letter###",
+            "name": {
+                "en": "Writing a Letter",
+                "mg": "??Writing a Letter??"
+            },
+            "phrasesIds":  [
+                "writing-letter#0",
+                "writing-letter#1",
+                "writing-letter#2",
+                "writing-letter#3",
+                "writing-letter#4",
+                "writing-letter#5"
+              ]
+        }
+        ,
+        {
+            "id": "###short-random###",
+            "name": {
+                "en": "Short Expressions and words",
+                "mg": "Fomba fiteny sy teny fohy"
+            },
+            "phrasesIds":  [                                                             
+                "short-random#0",  "short-random#1",  "short-random#2",     
+                "short-random#3",  "short-random#4",  "short-random#5",     
+                "short-random#6",  "short-random#7",  "short-random#8",     
+                "short-random#9",  "short-random#10", "short-random#11",    
+                "short-random#12", "short-random#13", "short-random#14",    
+                "short-random#15", "short-random#16", "short-random#17",    
+                "short-random#18", "short-random#19", "short-random#20",    
+                "short-random#21", "short-random#22", "short-random#23",    
+                "short-random#24", "short-random#25", "short-random#26",    
+                "short-random#27", "short-random#28", "short-random#29",    
+                "short-random#30", "short-random#31", "short-random#32",    
+                "short-random#33", "short-random#34", "short-random#35",    
+                "short-random#36", "short-random#37", "short-random#38",    
+                "short-random#39", "short-random#40", "short-random#41",    
+                "short-random#42", "short-random#43"                        
+              ]                                                             
+                                                                            
+        }
+        ,
+        {
+            "id": "###pronouns-only###",
+            "name": {
+                "en": "Pronouns",
+                "mg": "Mpisolo-tena"
+            },
+            "phrasesIds":  [
+                "pronouns-only#1",  "pronouns-only#2",
+                "pronouns-only#3",  "pronouns-only#4",
+                "pronouns-only#5",  "pronouns-only#6",
+                "pronouns-only#7",  "pronouns-only#8",
+                "pronouns-only#9",  "pronouns-only#10",
+                "pronouns-only#11", "pronouns-only#12",
+                "pronouns-only#13", "pronouns-only#14",
+                "pronouns-only#15", "pronouns-only#16",
+                "pronouns-only#17", "pronouns-only#18",
+                "pronouns-only#19", "pronouns-only#20",
+                "pronouns-only#21", "pronouns-only#22",
+                "pronouns-only#23", "pronouns-only#24"
+              ]
+                                      
+                                                                            
+        }
+        ,
+        {
+            "id": "###pronouns-in-use###",
+            "name": {
+                "en": "Pronouns in use",
+                "mg": "???Mpisolo-tena???"
+            },
+            "phrasesIds":  [                                                 
+                "pronouns-in-use#1",  "pronouns-in-use#2",      
+                "pronouns-in-use#3",  "pronouns-in-use#4",      
+                "pronouns-in-use#5",  "pronouns-in-use#6",      
+                "pronouns-in-use#7",  "pronouns-in-use#8",      
+                "pronouns-in-use#9",  "pronouns-in-use#10",     
+                "pronouns-in-use#11", "pronouns-in-use#12",     
+                "pronouns-in-use#13", "pronouns-in-use#14",     
+                "pronouns-in-use#15", "pronouns-in-use#16",     
+                "pronouns-in-use#17", "pronouns-in-use#18"      
+              ]                                                                                 
+                                                                            
+        }
+        ,
+        {
+            "id": "###questions###",
+            "name": {
+                "en": "Questions",
+                "mg": "fanontaniana"
+            },
+            "phrasesIds":  [
+                "questions#0",  "questions#1",
+                "questions#2",  "questions#3",
+                "questions#4",  "questions#5",
+                "questions#6",  "questions#7",
+                "questions#8",  "questions#9",
+                "questions#10", "questions#11",
+                "questions#12", "questions#13",
+                "questions#14", "questions#15",
+                "questions#16", "questions#17",
+                "questions#18", "questions#19",
+                "questions#20", "questions#21"
+              ]                                  
+                                                                            
+        }
+        ,
+        {
+            "id": "###negation###",
+            "name": {
+                "en": "Negation",
+                "mg": "Fandavana"
+            },
+            "phrasesIds":   [                                    
+                "negation#0",  "negation#1",       
+                "negation#2",  "negation#3",       
+                "negation#4",  "negation#5",       
+                "negation#6",  "negation#7",       
+                "negation#8",  "negation#9",       
+                "negation#10", "negation#11",      
+                "negation#12", "negation#13",      
+                "negation#14", "negation#15",      
+                "negation#16", "negation#17",      
+                "negation#18", "negation#19",      
+                "negation#20", "negation#21",      
+                "negation#22", "negation#23"       
+              ]                                                                    
+        }
+        ,
+        {
+            "id": "###prepositions-single###",
+            "name": {
+                "en": "Prepositions",
+                "mg": "Mpisolo tena tapisaka"
+            },
+            "phrasesIds":    [
+                "prepositions-single#0",  "prepositions-single#1",  "prepositions-single#2",
+                "prepositions-single#3",  "prepositions-single#4",  "prepositions-single#5",
+                "prepositions-single#6",  "prepositions-single#7",  "prepositions-single#8",
+                "prepositions-single#9",  "prepositions-single#10", "prepositions-single#11",
+                "prepositions-single#12", "prepositions-single#13", "prepositions-single#14",
+                "prepositions-single#15", "prepositions-single#16", "prepositions-single#17",
+                "prepositions-single#18", "prepositions-single#19", "prepositions-single#20",
+                "prepositions-single#21", "prepositions-single#22", "prepositions-single#23",
+                "prepositions-single#24", "prepositions-single#25", "prepositions-single#26",
+                "prepositions-single#27", "prepositions-single#28", "prepositions-single#29",
+                "prepositions-single#30", "prepositions-single#31", "prepositions-single#32",
+                "prepositions-single#33", "prepositions-single#34", "prepositions-single#35",
+                "prepositions-single#36", "prepositions-single#37", "prepositions-single#38",
+                "prepositions-single#39", "prepositions-single#40", "prepositions-single#41",
+                "prepositions-single#42", "prepositions-single#43", "prepositions-single#44",
+                "prepositions-single#45", "prepositions-single#46", "prepositions-single#47",
+                "prepositions-single#48", "prepositions-single#49", "prepositions-single#50",
+                "prepositions-single#51", "prepositions-single#52", "prepositions-single#53",
+                "prepositions-single#54", "prepositions-single#55", "prepositions-single#56",
+                "prepositions-single#57", "prepositions-single#58", "prepositions-single#59"
+              ]       
+                                                                            
+        }
+        ,
+        {
+            "id": "###prepositions-two-words###",
+            "name": {
+                "en": "Prepositions two words",
+                "mg": "Mpisolo tena tapisaka ?? two words"
+            },
+            "phrasesIds":  [
+                "prepositions-two-words#0",
+                "prepositions-two-words#1",
+                "prepositions-two-words#2",
+                "prepositions-two-words#3",
+                "prepositions-two-words#4",
+                "prepositions-two-words#5",
+                "prepositions-two-words#6",
+                "prepositions-two-words#7",
+                "prepositions-two-words#8",
+                "prepositions-two-words#9",
+                "prepositions-two-words#10",
+                "prepositions-two-words#11"
+              ]
+               
+                                                                            
+        }
+        ,
+        {
+            "id": "###prepositions-three-words###",
+            "name": {
+                "en": "Prepositions three words",
+                "mg": "Mpisolo tena tapisaka ?? three words"
+            },
+            "phrasesIds":  [
+                "prepositions-three-words#0",
+                "prepositions-three-words#1",
+                "prepositions-three-words#2",
+                "prepositions-three-words#3",
+                "prepositions-three-words#4",
+                "prepositions-three-words#5",
+                "prepositions-three-words#6"
+              ] 
+                                                                            
+        }
+    ]
+}

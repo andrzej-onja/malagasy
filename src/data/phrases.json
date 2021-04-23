@@ -1,4 +1,5 @@
-[
+{
+    "phrases":[
     {
         "id": "greet#1",
         "name": {
@@ -415,30 +416,30 @@
     { "id":"short-random#42","name":{"en":"Nine","mg":"sivy" } },
     { "id":"short-random#43","name":{"en":"Ten","mg":"folo" } },
 
-    { "id":"pronouns#1","name":{"en":"I","mg":"izaho" } },
-    { "id":"pronouns#2","name":{"en":"you","mg":"ianao" } },
-    { "id":"pronouns#3","name":{"en":"he","mg":"izy" } },
-    { "id":"pronouns#4","name":{"en":"she","mg":"izy" } },
-    { "id":"pronouns#5","name":{"en":"we","mg":"isika" } },
-    { "id":"pronouns#6","name":{"en":"they","mg":"izy ireo/zareo" } },
-    { "id":"pronouns#7","name":{"en":"me","mg":"izaho" } },
-    { "id":"pronouns#8","name":{"en":"you","mg":"ianao" } },
-    { "id":"pronouns#9","name":{"en":"him","mg":"izy" } },
-    { "id":"pronouns#10","name":{"en":"her","mg":"izy" } },
-    { "id":"pronouns#11","name":{"en":"us","mg":"isika/tsika" } },
-    { "id":"pronouns#12","name":{"en":"them","mg":"izy ireo/zareo" } },
-    { "id":"pronouns#13","name":{"en":"my","mg":"ny -ko" } },
-    { "id":"pronouns#14","name":{"en":"your","mg":"ny -nao" } },
-    { "id":"pronouns#15","name":{"en":"his","mg":"ny -niny" } },
-    { "id":"pronouns#16","name":{"en":"her","mg":"ny -niny" } },
-    { "id":"pronouns#17","name":{"en":"our","mg":"ny -tsika" } },
-    { "id":"pronouns#18","name":{"en":"their","mg":"ny -nareo" } },
-    { "id":"pronouns#19","name":{"en":"mine","mg":"ahy" } },
-    { "id":"pronouns#20","name":{"en":"yours","mg":"anao" } },
-    { "id":"pronouns#21","name":{"en":"his","mg":"azy" } },
-    { "id":"pronouns#22","name":{"en":"hers","mg":"azy" } },
-    { "id":"pronouns#23","name":{"en":"ours","mg":"antsika" } },
-    { "id":"pronouns#24","name":{"en":"theirs","mg":"azy ireo" } },
+    { "id":"pronouns-only#1","name":{"en":"I","mg":"izaho" } },
+    { "id":"pronouns-only#2","name":{"en":"you","mg":"ianao" } },
+    { "id":"pronouns-only#3","name":{"en":"he","mg":"izy" } },
+    { "id":"pronouns-only#4","name":{"en":"she","mg":"izy" } },
+    { "id":"pronouns-only#5","name":{"en":"we","mg":"isika" } },
+    { "id":"pronouns-only#6","name":{"en":"they","mg":"izy ireo/zareo" } },
+    { "id":"pronouns-only#7","name":{"en":"me","mg":"izaho" } },
+    { "id":"pronouns-only#8","name":{"en":"you","mg":"ianao" } },
+    { "id":"pronouns-only#9","name":{"en":"him","mg":"izy" } },
+    { "id":"pronouns-only#10","name":{"en":"her","mg":"izy" } },
+    { "id":"pronouns-only#11","name":{"en":"us","mg":"isika/tsika" } },
+    { "id":"pronouns-only#12","name":{"en":"them","mg":"izy ireo/zareo" } },
+    { "id":"pronouns-only#13","name":{"en":"my","mg":"ny -ko" } },
+    { "id":"pronouns-only#14","name":{"en":"your","mg":"ny -nao" } },
+    { "id":"pronouns-only#15","name":{"en":"his","mg":"ny -niny" } },
+    { "id":"pronouns-only#16","name":{"en":"her","mg":"ny -niny" } },
+    { "id":"pronouns-only#17","name":{"en":"our","mg":"ny -tsika" } },
+    { "id":"pronouns-only#18","name":{"en":"their","mg":"ny -nareo" } },
+    { "id":"pronouns-only#19","name":{"en":"mine","mg":"ahy" } },
+    { "id":"pronouns-only#20","name":{"en":"yours","mg":"anao" } },
+    { "id":"pronouns-only#21","name":{"en":"his","mg":"azy" } },
+    { "id":"pronouns-only#22","name":{"en":"hers","mg":"azy" } },
+    { "id":"pronouns-only#23","name":{"en":"ours","mg":"antsika" } },
+    { "id":"pronouns-only#24","name":{"en":"theirs","mg":"azy ireo" } },
 
     { "id":"pronouns-in-use#1","name":{"en":"I speak","mg":"miteny aho" } },
     { "id":"pronouns-in-use#2","name":{"en":"you speak","mg":"miteny ianao" } },
@@ -1066,4 +1067,4 @@
     { "id":"adj-quantities#6","name":{"en":"some","mg":"Vitsivitsy" } },
     { "id":"adj-quantities#7","name":{"en":"a few","mg":"vitsy" } },
     { "id":"adj-quantities#8","name":{"en":"whole","mg":"rehetra/manontolo" } }
-]
+]}
