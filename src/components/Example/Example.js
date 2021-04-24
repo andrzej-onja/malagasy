@@ -9,6 +9,8 @@ export default function Example({label}) {
       <Text>{label}</Text>
       <Text>{label}</Text>
       <Text>{label}</Text>
+      <Text>{label}</Text>
+      <Text>{label}</Text>
     </SafeAreaView>
   );
 }
